@@ -164,12 +164,10 @@ Automated event discovery
 Main Dashboard
 <img width="1470" alt="Screenshot 2025-05-25 at 7 25 11 PM" src="https://github.com/user-attachments/assets/1942401d-ed1e-4405-a7f9-af916f23a354" />
 
-🏆 Awards & Recognition
-Best Career Development Tool - University Innovation Challenge 2024
-Student Choice Award - Campus Technology Fair
-Featured Project - Computer Science Department Showcase
+
 📧 Contact & Feedback
 Developer: mahi lohiya
+
 Email: 1ms23is062@msrit.edu
 
 LinkedIn: https://www.linkedin.com/in/mahi-lohiya-66909b296/
