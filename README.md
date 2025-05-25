@@ -106,23 +106,30 @@ Connections Made: 12 new contacts
 Follow-ups Completed: 8
 Opportunities Generated: 2 interview referrals, 1 internship lead
 Output:
+
 📊 Networking ROI Analysis:
 - Conversion Rate: 67% (follow-ups/connections)
 - Opportunity Rate: 25% (outcomes/connections)  
 - Time ROI: 1.2 hours per meaningful connection
 - Recommendation: Excellent performance - maintain current strategy
 - Next Focus: Strengthen existing connections vs. adding new ones
+- 
 🛠️ Party Rock Technical Implementation
 Platform: Amazon Party Rock (Bedrock AI) Primary Model: Claude 3.5 Sonnet for natural language processing Architecture: Multi-widget text-based application
 Core Widgets & Prompts:
+
 1. Alumni Outreach Generator
 Prompt: "Generate 3 professional outreach messages (casual, formal, brief) for reaching out to a [ROLE] at [COMPANY]. Include shared [UNIVERSITY] background and [SPECIFIC ASK]. Make each message authentic and likely to get a response."
+
 2. Relationship Quality Scorer
 Prompt: "Analyze this professional relationship and provide: 1) Strength score (1-10), 2) Three improvement strategies, 3) Optimal follow-up timing, 4) Value exchange opportunities. Relationship details: [INPUT]"
+
 3. LinkedIn Profile Optimizer
 Prompt: "Improve this LinkedIn profile for a [MAJOR] student targeting [INDUSTRY] roles. Provide: 1) Enhanced summary, 2) Professional headline options, 3) Skills to add, 4) Keywords to include. Current profile: [INPUT]"
+
 4. Networking Event Prep
 Prompt: "Create networking preparation for a [EVENT TYPE] targeting [INDUSTRY] professionals. Provide: 1) 5 conversation starters, 2) Strategic questions to ask, 3) Follow-up action plan. Background: [STUDENT INFO]"
+
 5. ROI Analytics Generator
 Prompt: "Analyze networking performance and provide ROI insights. Input: [ACTIVITIES, TIME, OUTCOMES]. Output: Conversion rates, recommendations, optimization strategies, next steps."
 📊 Impact Metrics
@@ -130,16 +137,19 @@ Prompt: "Analyze networking performance and provide ROI insights. Input: [ACTIVI
 3x more networking events attended with proper preparation
 40% increase in meaningful professional relationships
 2x faster job search success through warm connections
+
 🎯 Target Users
 College Students seeking internships and full-time opportunities
 Recent Graduates building their professional network
 Career Changers looking to break into new industries
 International Students navigating professional networking in new cultures
+
 🚀 Getting Started
 Access the App: 
 Complete Profile Setup: Enter your academic and career information
 Set Networking Goals: Define your target connections and timeline
 Start Building: Use the alumni discovery tool to find your first connections
+
 📈 Roadmap
 Phase 1: Core Features ✅
 Alumni discovery and outreach
@@ -153,6 +163,7 @@ Phase 3: Community Features 📋
 Peer networking groups
 Event coordination tools
 Success story sharing
+
 🤝 Contributing
 This project showcases AI-powered solutions for professional networking challenges. While built on Party Rock, the concepts and workflows can be adapted to other platforms.
 Areas for Enhancement:
@@ -161,6 +172,7 @@ Mobile-responsive design improvements
 Advanced analytics dashboard
 Automated event discovery
 📱 Screenshots & Demo
+
 Main Dashboard
 <img width="1470" alt="Screenshot 2025-05-25 at 7 25 11 PM" src="https://github.com/user-attachments/assets/1942401d-ed1e-4405-a7f9-af916f23a354" />
 
