@@ -1,4 +1,5 @@
 Network Building Assistant 🤝
+
 Transform your professional networking from awkward small talk to strategic career building
 A comprehensive AI-powered networking platform built on Amazon Party Rock, designed specifically for college students to build meaningful professional relationships through intelligent text-based analysis and generation tools.
 
