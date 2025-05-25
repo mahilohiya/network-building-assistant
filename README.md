@@ -171,8 +171,11 @@ Featured Project - Computer Science Department Showcase
 📧 Contact & Feedback
 Developer: mahi lohiya
 Email: 1ms23is062@msrit.edu
+
 LinkedIn: https://www.linkedin.com/in/mahi-lohiya-66909b296/
+
 link of the app: https://partyrock.aws/u/mahilohiya/GnbD7Gj0K/NetweaveAI
+
 📚 Learning Outcomes
 Through building this application, I gained experience in:
 AI/ML Integration: Implementing large language models for practical applications
